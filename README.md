@@ -7,7 +7,7 @@
 
 **Carrera:** Ingeniería Mecatrónica — Facultad de Ingeniería (UNLZ)  
 **Materia / Curso:** Prácticas Profesionalizantes Supervisadas (PPS)  
-**Docente / Cátedra:** [NOMBRE_DOCENTE]  
+**Docente / Cátedra:** Cristian Lukaszewicz  
 **Autor/es:** MALACHINA, Fabrizio — PROPERZI, Martín
 
 ---
