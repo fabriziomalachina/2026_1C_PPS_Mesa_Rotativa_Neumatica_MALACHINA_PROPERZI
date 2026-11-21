@@ -233,8 +233,8 @@ Cronograma de actividades realizadas entre **mayo y noviembre de 2026** (total *
 ---
 
 ## Autores
-- **MALACHINA, Fabrizio** — [Legajo] — [mail / LinkedIn opcional]
-- **PROPERZI, Martín** — [Legajo] — [mail / LinkedIn opcional]
+- **MALACHINA, Fabrizio** 
+- **PROPERZI, Martín** 
 
 ---
 
